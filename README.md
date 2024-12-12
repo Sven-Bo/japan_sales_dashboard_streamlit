@@ -18,7 +18,7 @@ In this project, the data source is a **CSV file**, but you can easily adapt the
 1. **Streamlit Basics**: How to create an interactive dashboard with Streamlit.
 2. **Pandas Techniques**: Tips and tricks for:
    - Loading data efficiently.
-   - Cleaning messy datasets.
+   - Cleaning/Preparing datasets.
    - Transforming data for analysis.
 
 ### Why Build This Dashboard?
