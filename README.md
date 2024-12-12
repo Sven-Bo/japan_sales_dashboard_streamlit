@@ -5,6 +5,9 @@ This tutorial demonstrates how to get started with **Streamlit** by building a s
 - Toggle between **previous year** and **current year** data.
 - Choose the analysis type, such as **sales by month** or **product category**.
 
+## Live website
+👉 Check out the final website here: https://japan-salesdashboard.streamlit.app/
+
 ### Data Source
 In this project, the data source is a **CSV file**, but you can easily adapt the dashboard to work with other data sources, like:
 - **Excel spreadsheets**
