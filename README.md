@@ -49,8 +49,8 @@ Make sure you have the following installed:
    ``` 
 
 
-## Video Tutorial (Coming soon!)
-[![YouTube Video](https://img.youtube.com/vi/XXX/0.jpg)](https://youtu.be/XXX)
+## Video Tutorial
+[![YouTube Video](https://img.youtube.com/vi/9yNH9XeT2gA/0.jpg)](https://youtu.be/9yNH9XeT2gA)
 
 
 ## 🤝 Connect with Me
